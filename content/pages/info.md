@@ -369,7 +369,7 @@ sections:
           type: TextFormControl
         - name: email
           label: Email
-          hideLabel: false
+          hideLabel: true
           placeholder: Email
           isRequired: true
           width: full
