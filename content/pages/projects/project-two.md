@@ -9,6 +9,16 @@ featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project thumbnail image
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 ## Project Summary
 
