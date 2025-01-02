@@ -7,7 +7,7 @@ client: CareerPhi
 description: ' Employee Attendance Tracker for offices This web app enables employees to check in/out and tracks attendance history. Admins can monitor attendance records and manage absentees, enhancing work flow management.'
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2025-01-02 214610.png
+  url: /images/Screenshot 2025-01-02 214536.png
   altText: Project thumbnail image
 media:
   type: VideoBlock
