@@ -218,6 +218,9 @@ sections:
         label: Netlify
       - type: Label
         label: C++
+      - type: Label
+        label: Java
+        url: ''
   - type: DividerSection
     styles:
       self:
