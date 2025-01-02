@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Screenshot 2025-01-02 214610.png
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
