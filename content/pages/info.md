@@ -222,6 +222,9 @@ sections:
         label: Java
         url: ''
       - type: Label
+        label: Web Development
+        url: ''
+      - type: Label
         label: API Integration
         url: ''
   - type: DividerSection
