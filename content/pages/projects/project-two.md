@@ -14,15 +14,56 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
+## Project Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+**Objective**: Develop a simple attendance tracker to record employees’ daily check-ins and check-outs, display attendance history, and mark absences.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Core Features**:
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+1.  **Record Attendance**: Log employee check-in and check-out with date and time.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+2.  **View Attendance History**: Display an individual employee’s attendance history.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+3.  **Mark Absence**: Automatically identify and display employees marked as absent if no check-in is recorded by a specific time.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+
+
+**User Story**: As an employee, I want to be able to log my check-in and check-out times so that my attendance is recorded accurately.
+
+```
+Employee Check-in and Check-out
+
+  Scenario: Employee checks in
+    Given the employee is logged into the system
+    When the employee clicks the "Check-in" button
+    Then the system records the check-in time with the current date and time
+    And the system shows a message "Check-in successful at 04:34:50"
+
+  Scenario: Employee checks out
+    Given the employee is logged into the system
+    And has checked in for the day
+    When the employee clicks the "Check-out" button
+    Then the system records the check-out time with the current date and time
+    And the system shows a message "Check-out successful at 04:34:50"
+```
+
+
+
+Wireframes
+
+### 1. **Dashboard**
+
+*   **Components**: A list of employees with options to view individual attendance records.
+
+*   **Actions**: Each employee has a button for “Check-in” and “Check-out.”
+
+### 2. **Employee Attendance History**
+
+*   **Components**: A table showing attendance records, with columns for Date, Check-in Time, Check-out Time, and Status (Absent/Present).
+
+*   **Actions**: Allows the manager to filter by date range or sort by employee name.
+
+
+
+
+
