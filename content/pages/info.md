@@ -222,7 +222,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: Web Development
+        label: Web Hosting
         url: ''
       - type: Label
         label: API Integration
