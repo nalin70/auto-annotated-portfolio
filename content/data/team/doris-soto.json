@@ -1,10 +1,5 @@
 {
     "type": "Person",
     "firstName": "Nalin",
-    "lastName": "Dewangan",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+    "lastName": "Dewangan"
 }
