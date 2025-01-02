@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://www.youtube.com/watch?v=YLTyA9A39w8'
   elementId: ''
   autoplay: false
   loop: false
