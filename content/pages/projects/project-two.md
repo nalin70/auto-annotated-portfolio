@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: ' Employee Attendance Tracker'
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
