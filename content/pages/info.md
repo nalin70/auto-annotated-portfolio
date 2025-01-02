@@ -221,6 +221,9 @@ sections:
       - type: Label
         label: Java
         url: ''
+      - type: Label
+        label: API Integration
+        url: ''
   - type: DividerSection
     styles:
       self:
