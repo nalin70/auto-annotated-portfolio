@@ -183,6 +183,9 @@ sections:
       - type: Label
         label: 'HTML5, CSS3, JavaScript (ES6+) '
         url: ''
+      - type: Label
+        label: 'Error Handling & Debugging '
+        url: ''
   - type: DividerSection
     styles:
       self:
