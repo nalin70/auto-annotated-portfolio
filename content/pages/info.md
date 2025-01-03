@@ -180,6 +180,9 @@ sections:
       - type: Label
         label: GitHub
         url: ''
+      - type: Label
+        label: 'HTML5, CSS3, JavaScript (ES6+) '
+        url: ''
   - type: DividerSection
     styles:
       self:
