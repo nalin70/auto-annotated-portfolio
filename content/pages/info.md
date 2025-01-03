@@ -177,6 +177,9 @@ sections:
       - type: Label
         label: Version Control
         url: ''
+      - type: Label
+        label: GitHub
+        url: ''
   - type: DividerSection
     styles:
       self:
