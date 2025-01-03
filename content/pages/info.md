@@ -174,6 +174,9 @@ sections:
       - type: Label
         label: Testing (Postman)
         url: ''
+      - type: Label
+        label: Version Control
+        url: ''
   - type: DividerSection
     styles:
       self:
