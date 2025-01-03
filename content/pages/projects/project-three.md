@@ -1,19 +1,31 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Help Desk Tool
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2024-10-22'
+client: CareerPhi
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This project aims to build a lightweight, web-based Helpdesk Ticketing System
+  within 8 hours. The system will enable users to submit, track, and resolve
+  tickets efficiently. This MVP (Minimum Viable Product) focuses on core
+  features to address immediate needs while being extensible for future
+  upgrades.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/Screenshot 2025-01-03 174725.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://www.youtube.com/watch?v=TauB8OCJC38'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
