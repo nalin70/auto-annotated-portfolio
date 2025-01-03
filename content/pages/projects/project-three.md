@@ -5,9 +5,11 @@ colors: colors-a
 date: '2024-10-22'
 client: CareerPhi
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This project aims to build a lightweight, web-based Helpdesk Ticketing System
+  within 8 hours. The system will enable users to submit, track, and resolve
+  tickets efficiently. This MVP (Minimum Viable Product) focuses on core
+  features to address immediate needs while being extensible for future
+  upgrades.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
