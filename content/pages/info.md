@@ -206,7 +206,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      dewangannalin\@gmail.com[.me](mailto:thisismyemail.@myemail.me)
+      <dewangannalin@gmail.com>[.me](mailto:dewangannalin@gmail.com.me)
   - type: DividerSection
     styles:
       self:
