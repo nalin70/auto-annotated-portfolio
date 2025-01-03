@@ -10,10 +10,6 @@ description: >-
   tickets efficiently. This MVP (Minimum Viable Product) focuses on core
   features to address immediate needs while being extensible for future
   upgrades.
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-01-03 174725.png
