@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Help Desk Tool
 colors: colors-a
 date: '2024-10-22'
-client: Awesome client
+client: CareerPhi
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
