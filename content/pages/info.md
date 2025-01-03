@@ -186,6 +186,9 @@ sections:
       - type: Label
         label: 'Error Handling & Debugging '
         url: ''
+      - type: Label
+        label: Database Integration
+        url: ''
   - type: DividerSection
     styles:
       self:
