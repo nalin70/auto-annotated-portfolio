@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## Hey I’m a developer. I bring on hands-on M.E.R.N. stack experience,
+      having built real world projects like attendance tracker and dashboards.
+      With a problem-solving mindset, passion for user-friendly applications,
+      and a commitment to learn new technologies, I am confident in delivering
+      high-quality solutions as a full-stack developer.
     media:
       type: ImageBlock
       url: /images/IMG_1773.jpg
