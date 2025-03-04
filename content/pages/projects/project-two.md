@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ' Employee Attendance Tracker'
 colors: colors-a
-date: '2021-10-20'
+date: '0002-10-20'
 client: CareerPhi
 description: ' Employee Attendance Tracker for offices This web app enables employees to check in/out and tracks attendance history. Admins can monitor attendance records and manage absentees, enhancing work flow management.'
 featuredImage:
