@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Will you be  my Valentine
+title: Will you be my Valentine
 date: '2025-02-14'
 client: ''
 description: >-
