@@ -28,3 +28,4 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
+more special and fun! 🎉💖 Features:❤️ A playful pop-up or animated prompt asking the big question.💛 Two buttons: "Yes" and "No", but with a twist!💙 The "No" button moves away or changes position, making it impossible to click! 😆💜 If the user clicks "Yes", a sweet message or animation appears.🎨 Tech Stack:✔ HTML, CSS, JavaScript for a smooth and engaging experience.✔ Optional React for added interactivity and animations.🎁 Perfect For:💌 Sending a virtual Valentine in a fun way.😂 Playfully teasing your crush or partner.💡 Learning event handling and DOM manipulation in JavaScript.
