@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: "I’m a\_\U0001F44B Hi, I'm\_Nalin, a passionate\_React Developer\_with a strong background in\_full-stack development\_and\_embedded systems. I love building dynamic and user-friendly applications, whether it's a sleek front-end UI or a powerful back-end system."
     subtitle: "\U0001F680 What I Do✔ Front-End Development – Creating interactive, responsive, and scalable web applications using React, JavaScript, HTML, CSS.✔ Back-End Development – Designing RESTful APIs, handling databases, and managing authentication.✔ Embedded Systems & Automation – Leveraging my C and Python knowledge to work on firmware and automation projects.✔ Project Management – Building structured and maintainable applications with modern tools and best practices."
     styles:
       self:
