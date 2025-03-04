@@ -16,10 +16,7 @@ sections:
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "\U0001F680 What I Do✔ Front-End Development – Creating interactive, responsive, and scalable web applications using React, JavaScript, HTML, CSS.✔ Back-End Development – Designing RESTful APIs, handling databases, and managing authentication.✔ Embedded Systems & Automation – Leveraging my C and Python knowledge to work on firmware and automation projects.✔ Project Management – Building structured and maintainable applications with modern tools and best practices."
     styles:
       self:
         height: auto
